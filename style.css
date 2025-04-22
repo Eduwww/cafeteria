@@ -101,7 +101,7 @@ section {
     letter-spacing: 0.1rem;
 }
 .home-container {
-    background: url("./imagens/home-img.jpg");
+    background: url("/imagens/home-img.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
