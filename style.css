@@ -64,6 +64,8 @@ section {
 .icons img {
     margin: 1rem;
     cursor: pointer;
+    width: 2.5rem;
+    height: 2.5rem;
 }
 
 .icons img:hover {
