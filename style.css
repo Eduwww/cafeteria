@@ -101,7 +101,7 @@ section {
     letter-spacing: 0.1rem;
 }
 .home-container {
-    background: url("img/home-img.jpg");
+    background: url("home-img.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -266,10 +266,12 @@ section {
 
 .footer {
     text-align: center;
+    
 }
 
 .footer .share {
     padding: 1rem 0;
+    
 }
 
 .footer .share i {
@@ -279,6 +281,7 @@ section {
     border-radius: 50%;
     margin: 0.3rem;
     cursor: pointer;
+    
 }
 
 .footer .share i:hover {
