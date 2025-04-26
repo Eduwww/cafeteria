@@ -101,7 +101,7 @@ section {
     letter-spacing: 0.1rem;
 }
 .home-container {
-    background: url("/imagens/home-img.jpg");
+    background: url("img/home-img.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -229,6 +229,7 @@ section {
     text-align: center;
     padding: 3rem 2rem;
     border: none;
+    
 }
 
 .review .box-container .box p {
@@ -252,10 +253,8 @@ section {
 }
 
 .review .box-container .box .stars {
-    font-size: 2.1rem;
-    color: white;
-    padding: 2rem;
-    cursor: pointer;
+    padding: 1.5rem;
+    
 }
 
 .address {
@@ -285,6 +284,7 @@ section {
 .footer .share i:hover {
     font-size: 2.6rem;
     background-color: var(--main-color);
+    
 }
 
 @media screen and (max-width: 1200px) {
